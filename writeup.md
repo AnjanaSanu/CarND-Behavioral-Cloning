@@ -12,7 +12,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/capture.PNG "Model Architecture"
+[image1]: ./examples/Capture.PNG "Model Architecture"
 [image2]: ./examples/data.PNG "driving_log.csv"
 
 ---
